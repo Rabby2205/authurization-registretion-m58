@@ -7,3 +7,10 @@
 .header nav a:hover {
     color: goldenrod;
 }
+
+.bg-salmon {
+    background-color: salmon;
+    color: white;
+    border: 1px dotted gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

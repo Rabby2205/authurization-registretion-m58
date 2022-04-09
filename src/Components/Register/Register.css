@@ -1,9 +1,7 @@
-.login {
-
+.register {
     border: 1px solid gray;
     border-radius: 15px;
     margin: 15px;
     padding: 10px;
-    background-color: rgb(249, 118, 95);
-
+    background-color: rgb(150, 134, 253);
 }
